@@ -13,3 +13,4 @@ Start this log with your model ID and start time. Rules: RULES_v2_2026-10-30.md 
 | 2026-11-02 17:29 UTC | Sonnet subagent (B013-B016) | Screen | B013-B016 written; parent check OK. 50 Include / 42 Exclude / 30 Borderline (pre senior pass). |
 | 2026-11-02 17:29 UTC | Sonnet subagent (B005-B008) | Screen | B005-B008 written; parent check OK. 51 Include / 49 Exclude / 30 Borderline (pre senior pass). |
 | 2026-11-02 17:29 UTC | claude-opus-5-5 (parent) | Senior dispatch | 3 Opus subagents re-decide every Include, Borderline, Q1-secondary, A1, A2 row of B005-B016; results go to out/N_TA_B###_fixed.csv (first-pass files untouched), re-decided rows marked 'SENIOR:'. |
+| 2026-11-02 17:30 UTC | Sonnet subagent (B001-B004) | Screen | B001-B004 written; parent check OK. 48 Include / 52 Exclude / 41 Borderline (pre senior pass). |
