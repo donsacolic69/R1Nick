@@ -11,3 +11,4 @@ Start this log with your model ID and start time. Rules: RULES_v2_2026-10-30.md 
 | 2026-11-02 17:40 UTC | claude-opus-5-5 (parent, R1) | Restart | Nick: "Startt". Run resumed as option 1: strict (narrowest) reading of the frozen criteria, no target count, Borderline flags kept per BRIEF. Opus re-checks every Include plus every Borderline, Q1-secondary, A1, A2 exclusion. Same 4 Sonnet subagent split. |
 | 2026-11-02 17:28 UTC | Sonnet subagent (B009-B012) | Screen | B009-B012 written; parent check OK. 42 Include / 58 Exclude / 27 Borderline (pre senior pass). |
 | 2026-11-02 17:29 UTC | Sonnet subagent (B013-B016) | Screen | B013-B016 written; parent check OK. 50 Include / 42 Exclude / 30 Borderline (pre senior pass). |
+| 2026-11-02 17:29 UTC | Sonnet subagent (B005-B008) | Screen | B005-B008 written; parent check OK. 51 Include / 49 Exclude / 30 Borderline (pre senior pass). |
